@@ -17,3 +17,5 @@ console.table([accountNumbar, accountEmail, accountPassword, accountCity, accoun
 /*
 this is multi line comment 
 */
+
+//original JS Documentation [tc39.es]
