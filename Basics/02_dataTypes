@@ -16,6 +16,15 @@ let userLogIn = false; // Boolean
 // symbol
 
 
+//**********object********
+
+console.log(typeof age);  // number
+
+console.log(typeof undefined); //undefined
+
+console.log(typeof null); //object
+
+
 
 
 
